@@ -1,4 +1,4 @@
-hallo git
+hallo git, heute lerne ich merge konflikte
 neuer eintrag
 nächster 
 neuer eintrag main
