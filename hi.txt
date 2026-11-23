@@ -1,4 +1,4 @@
-hallo git, heute lerne ich merge konflikte
+Hallo Git, schön dich zu sehen! Heute lerne ich Merge-Konflikte.
 neuer eintrag
 nächster 
 neuer eintrag main
