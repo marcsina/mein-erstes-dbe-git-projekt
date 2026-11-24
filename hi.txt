@@ -1,5 +1,4 @@
 Hallo Git, schön dich zu sehen! Heute lerne ich Merge-Konflikte.
-neuer eintrag
-nächster 
-neuer eintrag main
-neue zeile im branch
+Das ist meine erste Änderung auf GitHub!
+Wichtige Änderung in main.
+Neue Zeile aus meinem Feature-Branch
