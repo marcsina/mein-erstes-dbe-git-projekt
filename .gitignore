@@ -6,3 +6,10 @@ cache/
 
 # Protokolle
 *.log
+
+# Rohdaten bleiben draußen
+daten/*
+!daten/README.md
+
+# Sicherungskopien von Jupyter
+.ipynb_checkpoints/
