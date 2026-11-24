@@ -1,4 +1,4 @@
 Hallo Git, schön dich zu sehen! Heute lerne ich Merge-Konflikte.
-Das ist meine erste Änderung auf GitHub!
+Diese Zeile habe ich auf GitHub geändert.
 Wichtige Änderung in main.
 Neue Zeile aus meinem Feature-Branch
