@@ -2,3 +2,4 @@ Hallo Git, schön dich zu sehen! Heute lerne ich Merge-Konflikte.
 Diese Zeile habe ich auf GitHub und auf meinem Computer geändert.
 Wichtige Änderung in main.
 Neue Zeile aus meinem Feature-Branch
+Kontakt: Max Mustermann
